@@ -1,0 +1,5 @@
+*.py[cod]
+
+# api keys
+secrets.py
+
